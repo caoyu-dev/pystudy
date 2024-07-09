@@ -16,4 +16,4 @@ def count_occupied_spaces():
 
     print(occupied_both_days)
 
-occupy()
+count_occupied_spaces()
