@@ -1,3 +1,5 @@
+#https://usaco.org/index.php?page=viewproblem2&cpid=735
+
 def find_distance(x, y):
     # 초기 위치
     current_position = x

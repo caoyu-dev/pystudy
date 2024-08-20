@@ -1,3 +1,5 @@
+#https://usaco.org/index.php?page=viewproblem2&cpid=739
+
 from itertools import combinations
 
 def count_explanatory_sets(N, M, spotty_cows, plain_cows):

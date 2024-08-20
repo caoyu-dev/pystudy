@@ -1,3 +1,5 @@
+#https://usaco.org/index.php?page=viewproblem2&cpid=855
+
 def mix_milk(capacities, amounts, operations = 100):
     for i in range(operations):
         current_bucket = i % 3

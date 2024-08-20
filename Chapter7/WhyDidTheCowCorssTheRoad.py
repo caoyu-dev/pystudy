@@ -1,3 +1,5 @@
+#https://usaco.org/index.php?page=viewproblem2&cpid=720
+
 def count_inversions(arr):
     if len(arr) < 2:
         return 0, arr

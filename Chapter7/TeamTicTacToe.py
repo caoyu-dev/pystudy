@@ -1,3 +1,5 @@
+#https://usaco.org/index.php?page=viewproblem2&cpid=831
+
 def check_individual_wins(board):
     winners = set()
 

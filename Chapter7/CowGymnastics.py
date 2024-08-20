@@ -1,3 +1,5 @@
+#https://usaco.org/index.php?page=viewproblem2&cpid=963
+
 def count_consistent_pairs(K, N, rankings):
     consistent_pairs = 0
 

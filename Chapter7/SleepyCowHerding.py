@@ -1,3 +1,5 @@
+#https://usaco.org/index.php?page=viewproblem2&cpid=915
+
 def sleepy_cow_herding(positions):
     positions.sort() # 초기 위치
     a, b, c = positions # 소의 위치
